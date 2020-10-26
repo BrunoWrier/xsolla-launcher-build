@@ -1,0 +1,465 @@
+{
+    "callback_url": "https://login.xsolla.com/api/blank",
+    "cdn_urls": [
+    ],
+    "chat_and_friends_enabled": false,
+    "configuration_json": {
+        "use_xsolla_login": true
+    },
+    "default_cdn": "https://launcher-game-update.s3.amazonaws.com",
+    "external_id": "b616b4a8-de8e-4044-aeef-3646af863dc2",
+    "games": [
+        {
+            "arts": [
+                {
+                    "date": 1582310518,
+                    "id": 2637,
+                    "is_draft": false,
+                    "localized_contents": [
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/155924304f1754cbce2e41e4150fa804.png",
+                            "link": "//cdn3.xsolla.com/img/misc/images/155924304f1754cbce2e41e4150fa804.png",
+                            "locale": "en",
+                            "title": "//cdn3.xsolla.com/img/misc/images/155924304f1754cbce2e41e4150fa804.png"
+                        }
+                    ],
+                    "ordering": 1,
+                    "type": "img"
+                }
+            ],
+            "buy_option_enabled": false,
+            "can_skip_update": false,
+            "executive_file": "Exotic Client.exe",
+            "game_icon": "//cdn3.xsolla.com/img/misc/images/830a32648c1b6a57b7105dcdb7a94126.png",
+            "game_link": "https://gamejolt.com/games/Exotic/401083",
+            "game_logo": "//cdn3.xsolla.com/img/misc/images/dd636690b1597de2dc5b73f02f7a8d6f.jpg",
+            "game_page_enabled": true,
+            "id": 3053,
+            "installation_directory": null,
+            "is_feature": true,
+            "is_new": true,
+            "key_redeem_enabled": true,
+            "localized_contents": [
+                {
+                    "big_feature_image": "//cdn3.xsolla.com/img/misc/images/1d6fcdc3a7cf728cb1ad37f57f255242.jpg",
+                    "description": "<p>Exotic Online is a 2D mmorpg style game developed by BrunoWrier, where you can do quests, finish dungeons, kill bosses with your friends compete for the title of \"hero of the region\" and more. Exotic has a differentiated crafting system, and all systems, shop, crafting etc, are simple and practical.</p>\n<p>&nbsp;</p>\n<p>The world of the game takes place after a great war, which drastically modifies the magic of the world. After these events, to prevent the destruction of the world, humans discover a new rarity / classification, superior to \"Legendary\", \"Exotic\".</p>",
+                    "details": "<p>Dev: BrunoWrier</p>\n<p>Publisher: PixelTime</p>",
+                    "game_logo": "",
+                    "genre": null,
+                    "id": 929,
+                    "locale": "en",
+                    "small_feature_image": "//cdn3.xsolla.com/img/misc/images/cf4a229abdbc8a6d99f21c3ccc3a86c5.jpg",
+                    "system_requirements": "<p>Windows 7/8/10</p>\n<p>2 GB Ram</p>\n<p>Video Card</p>\n<p><span style=\"color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #772323; --darkreader-inline-color: #ffffff; --darkreader-inline-bgcolor: #772323;\" data-darkreader-inline-color=\"\" data-darkreader-inline-bgcolor=\"\">.Net Framework 4.6.1+ is required</span></p>",
+                    "title": "<p>Explore a new world with your friends in Exotic Online, try it free.</p>"
+                },
+                {
+                    "big_feature_image": "//cdn3.xsolla.com/img/misc/images/fea7e8dddd79411cc8cc80c27b9548a6.jpg",
+                    "description": "<p>Exotic Online &eacute; um jogo em estilo MMORPG 2D desenvolvido por BrunoWrier, onde voc&ecirc; pode fazer miss&otilde;es, terminar masmorras, matar chefes com seus amigos e competir pelo t&iacute;tulo de \"her&oacute;i da regi&atilde;o\" e muito mais. A Exotic possui um sistema de cria&ccedil;&atilde;o diferenciado, e todos os sistemas, lojas, artesanato etc. s&atilde;o simples e pr&aacute;ticos.</p>\n<p>&nbsp;</p>\n<p>O mundo do jogo se passa ap&oacute;s uma grande guerra, que modifica drasticamente a magia do mundo. Ap&oacute;s esses eventos, para impedir a destrui&ccedil;&atilde;o do mundo, os humanos descobrem uma nova raridade / classifica&ccedil;&atilde;o, superior a \"Legendary\", \"Exotic\".</p>",
+                    "details": "<p>Dev: BrunoWrier</p>\n<p>Publisher: PixelTime</p>",
+                    "game_logo": "",
+                    "genre": null,
+                    "id": 934,
+                    "locale": "pt",
+                    "small_feature_image": "//cdn3.xsolla.com/img/misc/images/14d9904acb5632cc2940176ad44eb95b.jpg",
+                    "system_requirements": "<p>Windows 7/8/10</p>\n<p>2 GB Ram</p>\n<p>Video Card</p>\n<p><span style=\"color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #772323; --darkreader-inline-color: #ffffff; --darkreader-inline-bgcolor: #772323;\" data-darkreader-inline-color=\"\" data-darkreader-inline-bgcolor=\"\">.Net Framework 4.6.1+ is required</span></p>",
+                    "title": "<p>Explore um mundo novo com seus amigos em Exotic Online, jogue agora de gra&ccedil;a.</p>"
+                }
+            ],
+            "maintenance": {
+                "active": false,
+                "description": "",
+                "title": ""
+            },
+            "multiple_key_redeem_enabled": false,
+            "name": "Exotic Online",
+            "notifications_enabled": false,
+            "ordering": 1,
+            "packages": [
+                {
+                    "default_currency": "USD",
+                    "drm": [
+                        {
+                            "enabled": true,
+                            "name": "DRM Free",
+                            "prices": {
+                                "BRL": 20,
+                                "USD": 5
+                            }
+                        },
+                        {
+                            "enabled": false,
+                            "name": "Steam",
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "enabled": false,
+                            "name": "Playstation",
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "enabled": false,
+                            "name": "XBox",
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "enabled": false,
+                            "name": "Uplay",
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "enabled": false,
+                            "name": "Origin",
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "enabled": false,
+                            "name": "GOG",
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "enabled": false,
+                            "name": "Epic Games Store",
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "enabled": false,
+                            "name": "Nintendo Switch eShop",
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "enabled": false,
+                            "name": "Discord Game Store",
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "enabled": false,
+                            "name": "Oculus",
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "enabled": false,
+                            "name": "Rockstar Games Launcher",
+                            "prices": [
+                            ]
+                        }
+                    ],
+                    "id": 8098,
+                    "parent_id": null,
+                    "sku": "Exotic-Online"
+                }
+            ],
+            "picture": "",
+            "publisher_project_id": 51809,
+            "return_url": "",
+            "saved_game_data": [
+            ],
+            "sku": "Exotic-Online",
+            "steam_app_id": null,
+            "store_enabled": false,
+            "store_link": "",
+            "type": "pc",
+            "url": "https://gamejolt.com/games/Exotic/401083",
+            "web_config": {
+                "address": null,
+                "can_resize": true,
+                "fullscreen": false,
+                "max_height": 480,
+                "max_width": 640,
+                "min_height": 480,
+                "min_width": 640,
+                "privacy_policy": null,
+                "term_of_use": null
+            }
+        },
+        {
+            "arts": [
+                {
+                    "date": 1581455109,
+                    "id": 2388,
+                    "is_draft": true,
+                    "localized_contents": [
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/98568d507cb480e1b833ff0e4e26502d.jpg",
+                            "link": "//cdn3.xsolla.com/img/misc/images/98568d507cb480e1b833ff0e4e26502d.jpg",
+                            "locale": "en",
+                            "title": "//cdn3.xsolla.com/img/misc/images/98568d507cb480e1b833ff0e4e26502d.jpg"
+                        },
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/98568d507cb480e1b833ff0e4e26502d.jpg",
+                            "link": "//cdn3.xsolla.com/img/misc/images/98568d507cb480e1b833ff0e4e26502d.jpg",
+                            "locale": "pt",
+                            "title": "//cdn3.xsolla.com/img/misc/images/98568d507cb480e1b833ff0e4e26502d.jpg"
+                        }
+                    ],
+                    "ordering": 0,
+                    "type": "img"
+                },
+                {
+                    "date": 1581455109,
+                    "id": 2389,
+                    "is_draft": true,
+                    "localized_contents": [
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/f17c40cc317b607a6bbf9f958aafb837.png",
+                            "link": "//cdn3.xsolla.com/img/misc/images/f17c40cc317b607a6bbf9f958aafb837.png",
+                            "locale": "en",
+                            "title": "//cdn3.xsolla.com/img/misc/images/f17c40cc317b607a6bbf9f958aafb837.png"
+                        },
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/f17c40cc317b607a6bbf9f958aafb837.png",
+                            "link": "//cdn3.xsolla.com/img/misc/images/f17c40cc317b607a6bbf9f958aafb837.png",
+                            "locale": "pt",
+                            "title": "//cdn3.xsolla.com/img/misc/images/f17c40cc317b607a6bbf9f958aafb837.png"
+                        }
+                    ],
+                    "ordering": 1,
+                    "type": "img"
+                },
+                {
+                    "date": 1581455109,
+                    "id": 2390,
+                    "is_draft": true,
+                    "localized_contents": [
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/50c15e47f3a0918e885ec56abc59fba1.png",
+                            "link": "//cdn3.xsolla.com/img/misc/images/50c15e47f3a0918e885ec56abc59fba1.png",
+                            "locale": "en",
+                            "title": "//cdn3.xsolla.com/img/misc/images/50c15e47f3a0918e885ec56abc59fba1.png"
+                        },
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/50c15e47f3a0918e885ec56abc59fba1.png",
+                            "link": "//cdn3.xsolla.com/img/misc/images/50c15e47f3a0918e885ec56abc59fba1.png",
+                            "locale": "pt",
+                            "title": "//cdn3.xsolla.com/img/misc/images/50c15e47f3a0918e885ec56abc59fba1.png"
+                        }
+                    ],
+                    "ordering": 2,
+                    "type": "img"
+                },
+                {
+                    "date": 1581455109,
+                    "id": 2391,
+                    "is_draft": true,
+                    "localized_contents": [
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/5b011aab6edd69f3f52686553a3346b1.png",
+                            "link": "//cdn3.xsolla.com/img/misc/images/5b011aab6edd69f3f52686553a3346b1.png",
+                            "locale": "en",
+                            "title": "//cdn3.xsolla.com/img/misc/images/5b011aab6edd69f3f52686553a3346b1.png"
+                        },
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/5b011aab6edd69f3f52686553a3346b1.png",
+                            "link": "//cdn3.xsolla.com/img/misc/images/5b011aab6edd69f3f52686553a3346b1.png",
+                            "locale": "pt",
+                            "title": "//cdn3.xsolla.com/img/misc/images/5b011aab6edd69f3f52686553a3346b1.png"
+                        }
+                    ],
+                    "ordering": 3,
+                    "type": "img"
+                },
+                {
+                    "date": 1581455109,
+                    "id": 2392,
+                    "is_draft": true,
+                    "localized_contents": [
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/7701972140fa30608c9559c468997951.png",
+                            "link": "//cdn3.xsolla.com/img/misc/images/7701972140fa30608c9559c468997951.png",
+                            "locale": "en",
+                            "title": "//cdn3.xsolla.com/img/misc/images/7701972140fa30608c9559c468997951.png"
+                        },
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/7701972140fa30608c9559c468997951.png",
+                            "link": "//cdn3.xsolla.com/img/misc/images/7701972140fa30608c9559c468997951.png",
+                            "locale": "pt",
+                            "title": "//cdn3.xsolla.com/img/misc/images/7701972140fa30608c9559c468997951.png"
+                        }
+                    ],
+                    "ordering": 4,
+                    "type": "img"
+                },
+                {
+                    "date": 1581455109,
+                    "id": 2393,
+                    "is_draft": true,
+                    "localized_contents": [
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/20f5b6d759426fb22f8127fa733b2057.png",
+                            "link": "//cdn3.xsolla.com/img/misc/images/20f5b6d759426fb22f8127fa733b2057.png",
+                            "locale": "en",
+                            "title": "//cdn3.xsolla.com/img/misc/images/20f5b6d759426fb22f8127fa733b2057.png"
+                        },
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/20f5b6d759426fb22f8127fa733b2057.png",
+                            "link": "//cdn3.xsolla.com/img/misc/images/20f5b6d759426fb22f8127fa733b2057.png",
+                            "locale": "pt",
+                            "title": "//cdn3.xsolla.com/img/misc/images/20f5b6d759426fb22f8127fa733b2057.png"
+                        }
+                    ],
+                    "ordering": 5,
+                    "type": "img"
+                },
+                {
+                    "date": 1581455109,
+                    "id": 2394,
+                    "is_draft": true,
+                    "localized_contents": [
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/7cbae5cb889187610a7f226e93ce4e3e.png",
+                            "link": "//cdn3.xsolla.com/img/misc/images/7cbae5cb889187610a7f226e93ce4e3e.png",
+                            "locale": "en",
+                            "title": "//cdn3.xsolla.com/img/misc/images/7cbae5cb889187610a7f226e93ce4e3e.png"
+                        },
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/7cbae5cb889187610a7f226e93ce4e3e.png",
+                            "link": "//cdn3.xsolla.com/img/misc/images/7cbae5cb889187610a7f226e93ce4e3e.png",
+                            "locale": "pt",
+                            "title": "//cdn3.xsolla.com/img/misc/images/7cbae5cb889187610a7f226e93ce4e3e.png"
+                        }
+                    ],
+                    "ordering": 6,
+                    "type": "img"
+                },
+                {
+                    "date": 1581455109,
+                    "id": 2395,
+                    "is_draft": true,
+                    "localized_contents": [
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/e7bc03e86bd70c2cf394386bc84f0904.jpg",
+                            "link": "//cdn3.xsolla.com/img/misc/images/e7bc03e86bd70c2cf394386bc84f0904.jpg",
+                            "locale": "en",
+                            "title": "//cdn3.xsolla.com/img/misc/images/e7bc03e86bd70c2cf394386bc84f0904.jpg"
+                        },
+                        {
+                            "description": "//cdn3.xsolla.com/img/misc/images/e7bc03e86bd70c2cf394386bc84f0904.jpg",
+                            "link": "//cdn3.xsolla.com/img/misc/images/e7bc03e86bd70c2cf394386bc84f0904.jpg",
+                            "locale": "pt",
+                            "title": "//cdn3.xsolla.com/img/misc/images/e7bc03e86bd70c2cf394386bc84f0904.jpg"
+                        }
+                    ],
+                    "ordering": 7,
+                    "type": "img"
+                }
+            ],
+            "buy_option_enabled": false,
+            "can_skip_update": false,
+            "executive_file": "WildBuilder.exe",
+            "game_icon": "//cdn3.xsolla.com/img/misc/images/ea61bdbd306256d256e287bac9956fde.jpg",
+            "game_link": "https://gamejolt.com/games/Simon_The_Lumberjack/460101",
+            "game_logo": "//cdn3.xsolla.com/img/misc/images/ed0a19c59366a8450b5db97eb8657f52.jpg",
+            "game_page_enabled": true,
+            "id": 3203,
+            "installation_directory": null,
+            "is_feature": true,
+            "is_new": true,
+            "key_redeem_enabled": false,
+            "localized_contents": [
+                {
+                    "big_feature_image": "//cdn3.xsolla.com/img/misc/images/30ea8657da16b523fc690de41110c978.jpg",
+                    "description": "<p style=\"line-height: 1.4; margin-top: 0px; color: #dcd9d4; font-family: Lato, Lato, LatoExtended, sans-serif; font-size: 16px; --darkreader-inline-color: #dcd9d4;\" data-darkreader-inline-color=\"\"><strong>Simon The Lumberjack</strong>&nbsp;is a Survival game where you have to fight against the time and difficulties of a lumberjack in order to set up your dwelling in a tropical and paradisiac forest.</p>\n<p style=\"line-height: 1.4; color: #dcd9d4; font-family: Lato, Lato, LatoExtended, sans-serif; font-size: 16px; --darkreader-inline-color: #dcd9d4;\" data-darkreader-inline-color=\"\">Build a magnificent house by chopping wood in the woods, but be careful, you are not as powerful as you think and something could go wrong!</p>",
+                    "details": "<p>Team: BluePumpking</p>\n<p>Publisher: PixelTime</p>",
+                    "game_logo": "",
+                    "genre": null,
+                    "id": 986,
+                    "locale": "en",
+                    "small_feature_image": "//cdn3.xsolla.com/img/misc/images/f4481743f1de515b87c9a56ef7d58029.jpg",
+                    "system_requirements": "",
+                    "title": "<p><strong style=\"color: #dcd9d4; font-family: Lato, Lato, LatoExtended, sans-serif; font-size: 16px; --darkreader-inline-color: #dcd9d4;\" data-darkreader-inline-color=\"\">Simon The Lumberjack</strong><span style=\"color: #dcd9d4; font-family: Lato, Lato, LatoExtended, sans-serif; font-size: 16px; --darkreader-inline-color: #dcd9d4;\" data-darkreader-inline-color=\"\">&nbsp;is a Survival game where you have to fight against the time and difficulties of a lumberjack in order to set up your dwelling in a tropical and paradisiac forest. Try it free!</span></p>"
+                },
+                {
+                    "big_feature_image": "//cdn3.xsolla.com/img/misc/images/563da20df02203edca13fb25f9056145.jpg",
+                    "description": "<p><strong style=\"color: #dcd9d4; font-family: Lato, Lato, LatoExtended, sans-serif; font-size: 16px; --darkreader-inline-color: #dcd9d4;\" data-darkreader-inline-color=\"\">Simon The Lumberjack&nbsp;</strong>&eacute; um jogo de sobrevivencia onde voc&ecirc; deve lutar contra o tempo e as dificuldades de um lenhador para montar sua moradia em uma floresta tropical e paradis&iacute;aca.</p>\n<p>Construa uma casa magn&iacute;fica cortando lenha na floresta, mas tenha cuidado, voc&ecirc; n&atilde;o &eacute; t&atilde;o poderoso o quanto pensa e algo pode dar errado!</p>",
+                    "details": "<p>Team: BluePumpking</p>\n<p>Publisher: PixelTime</p>",
+                    "game_logo": "",
+                    "genre": null,
+                    "id": 987,
+                    "locale": "pt",
+                    "small_feature_image": "//cdn3.xsolla.com/img/misc/images/4acaa1fc1cc46bbc0e52c8a86e61d6ec.jpg",
+                    "system_requirements": "",
+                    "title": "<p><strong style=\"color: #dcd9d4; font-family: Lato, Lato, LatoExtended, sans-serif; font-size: 16px; --darkreader-inline-color: #dcd9d4;\" data-darkreader-inline-color=\"\">Simon The Lumberjack&nbsp;</strong>&eacute; um jogo de sobrevivencia onde voc&ecirc; deve lutar contra o tempo e as dificuldades de um lenhador para montar sua moradia em uma floresta tropical e paradis&iacute;aca. Jogue de gra&ccedil;a!</p>"
+                }
+            ],
+            "maintenance": {
+                "active": false,
+                "description": "",
+                "title": ""
+            },
+            "multiple_key_redeem_enabled": false,
+            "name": "Simon The Lumberjack",
+            "notifications_enabled": false,
+            "ordering": 2,
+            "packages": [
+            ],
+            "picture": "",
+            "publisher_project_id": 52637,
+            "return_url": "",
+            "saved_game_data": [
+            ],
+            "sku": "",
+            "steam_app_id": null,
+            "store_enabled": false,
+            "store_link": "",
+            "type": "pc",
+            "url": "https://gamejolt.com/games/Simon_The_Lumberjack/460101",
+            "web_config": {
+                "address": null,
+                "can_resize": true,
+                "fullscreen": false,
+                "max_height": 480,
+                "max_width": 640,
+                "min_height": 480,
+                "min_width": 640,
+                "privacy_policy": null,
+                "term_of_use": null
+            }
+        }
+    ],
+    "home_page_custom_build": false,
+    "home_page_enabled": true,
+    "home_page_res_link": "",
+    "home_page_show_last_updates": true,
+    "is_mf_enabled": false,
+    "key_redeem_games": [
+        3053
+    ],
+    "launcher_template_release_id": 10,
+    "link_create_account": "",
+    "link_restore_password": "",
+    "locales": [
+        "en",
+        "pt"
+    ],
+    "name": "Pixel Time",
+    "publisher_logo": "//cdn3.xsolla.com/img/misc/images/a1e5cf52add4e9f834d564197869602b.jpg",
+    "status": "not_active",
+    "streaming_enabled": false,
+    "ui_json": {
+        "game_specific_styles": [
+        ],
+        "general_styles": {
+            "launcher_icon_windows": "https://s3.amazonaws.com/launcher-stuff/General/Images/xsolla_launcher_blue.ico",
+            "links_color": "rgba(255, 255, 255, 1)",
+            "primary_background_color": "rgba(54, 57, 63, 1)",
+            "primary_button_bg": "rgba(0, 199, 126, 1)",
+            "primary_button_text": "rgba(255, 255, 255, 1)",
+            "primary_text_color": "rgba(255, 255, 255, 1)",
+            "secondary_background_color": "rgba(0, 0, 0, 0.2)",
+            "secondary_button_bg": "rgba(160, 171, 184, 1)",
+            "secondary_text_color": "rgba(255, 255, 255, 0.6)",
+            "start_page_bg": ""
+        }
+    },
+    "use_xsolla_login_links": true,
+    "xsolla_login_project_id": "e0fb681e-3665-11ea-b687-42010aa80004"
+}

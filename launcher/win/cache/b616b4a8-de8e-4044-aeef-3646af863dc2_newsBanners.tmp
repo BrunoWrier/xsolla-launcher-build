@@ -1,0 +1,17 @@
+{
+    "banner_news": [
+        {
+            "action": "opennews:5216",
+            "date": 1588777108,
+            "game_id": 3053,
+            "id": 835,
+            "image": "//cdn3.xsolla.com/img/misc/images/505719b99e415d58fb55fcd601e77fea.png",
+            "locale": "en",
+            "news_id": 5216,
+            "order": 1,
+            "regions": [
+            ],
+            "title": "Alpha 5 is here!"
+        }
+    ]
+}

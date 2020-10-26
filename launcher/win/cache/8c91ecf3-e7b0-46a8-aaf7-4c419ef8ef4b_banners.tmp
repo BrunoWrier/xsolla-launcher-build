@@ -1,0 +1,247 @@
+{
+    "banner_groups": [
+        {
+            "banners": [
+                {
+                    "action": "opennews:267",
+                    "attributes": [
+                    ],
+                    "date": 1525690711,
+                    "expression": "",
+                    "id": 107,
+                    "localized_contents": [
+                        {
+                            "description": "Short description",
+                            "id": 218,
+                            "image": "https://cdn.xsolla.net/img/misc/images/2d060db952b21508174e18e8f6e28e0f.jpg",
+                            "locale": "en",
+                            "title": "News article"
+                        }
+                    ],
+                    "order": 1,
+                    "regions": [
+                    ],
+                    "type": "article"
+                },
+                {
+                    "attributes": [
+                    ],
+                    "date": 1525690746,
+                    "expression": "",
+                    "id": 108,
+                    "localized_contents": [
+                        {
+                            "description": "Short description for image",
+                            "id": 219,
+                            "image": "https://cdn.xsolla.net/img/misc/images/3d5b9ff0f71a8d9a4d8fcb61b0db4eee.jpg",
+                            "locale": "en",
+                            "title": "Image"
+                        }
+                    ],
+                    "order": 2,
+                    "regions": [
+                    ],
+                    "type": "image"
+                },
+                {
+                    "action": "openurl:https://xsolla.com/",
+                    "attributes": [
+                    ],
+                    "date": 1542345093,
+                    "expression": "",
+                    "id": 493,
+                    "localized_contents": [
+                        {
+                            "description": "Short description for External link",
+                            "id": 732,
+                            "image": "https://cdn.xsolla.net/img/misc/images/9c2d753cb98b282ad17d75539f1d4fe7.jpg",
+                            "locale": "en",
+                            "title": "External link"
+                        }
+                    ],
+                    "order": 4,
+                    "regions": [
+                    ],
+                    "type": "external"
+                }
+            ],
+            "game_id": 80,
+            "id": 185,
+            "is_default": false,
+            "order": 0,
+            "regions": [
+            ],
+            "size": "rectangular",
+            "title": "Rectangle group 1"
+        },
+        {
+            "banners": [
+                {
+                    "action": "buygame:3702",
+                    "attributes": [
+                    ],
+                    "date": 1542353356,
+                    "expression": "",
+                    "id": 496,
+                    "item_id": 3702,
+                    "localized_contents": [
+                        {
+                            "description": "Sell game",
+                            "id": 735,
+                            "image": "https://cdn.xsolla.net/img/misc/images/91eb0acf215a37e80b3da113bf73c3cc.jpg",
+                            "locale": "en",
+                            "title": "Sell game. Package 1"
+                        }
+                    ],
+                    "order": 1,
+                    "regions": [
+                    ],
+                    "type": "game"
+                }
+            ],
+            "game_id": 81,
+            "id": 186,
+            "is_default": false,
+            "order": 0,
+            "regions": [
+            ],
+            "size": "square",
+            "title": "Square group 1"
+        },
+        {
+            "banners": [
+                {
+                    "action": "openurl:https://youtu.be/1MePIsFa2wE",
+                    "attributes": [
+                    ],
+                    "date": 1542350895,
+                    "expression": "",
+                    "id": 495,
+                    "localized_contents": [
+                        {
+                            "description": "External link. Video",
+                            "id": 734,
+                            "image": "https://cdn.xsolla.net/img/misc/images/7373ca64a2064793ad8be308ad17241f.jpg",
+                            "locale": "en",
+                            "title": "External link. Video"
+                        }
+                    ],
+                    "order": 1,
+                    "regions": [
+                    ],
+                    "type": "external"
+                }
+            ],
+            "game_id": 80,
+            "id": 187,
+            "is_default": false,
+            "order": 1,
+            "regions": [
+            ],
+            "size": "rectangular",
+            "title": "Rectangle group 2"
+        },
+        {
+            "banners": [
+                {
+                    "action": "buygame:3703",
+                    "attributes": [
+                    ],
+                    "date": 1542353412,
+                    "expression": "",
+                    "id": 497,
+                    "item_id": 3703,
+                    "localized_contents": [
+                        {
+                            "description": "Sell game",
+                            "id": 736,
+                            "image": "https://cdn.xsolla.net/img/misc/images/d28d82e844e310c34c08d524979994fd.jpg",
+                            "locale": "en",
+                            "title": "Sell game. Package 2"
+                        }
+                    ],
+                    "order": 1,
+                    "regions": [
+                    ],
+                    "type": "game"
+                }
+            ],
+            "game_id": 81,
+            "id": 188,
+            "is_default": false,
+            "order": 1,
+            "regions": [
+            ],
+            "size": "rectangular",
+            "title": "Rectangle group 1"
+        },
+        {
+            "banners": [
+                {
+                    "action": "buyitem:160128",
+                    "attributes": [
+                    ],
+                    "date": 1542349176,
+                    "expression": "",
+                    "id": 494,
+                    "item_currency": "fiat",
+                    "item_id": 160128,
+                    "localized_contents": [
+                        {
+                            "description": "Sell virtual items",
+                            "id": 733,
+                            "image": "https://cdn.xsolla.net/img/misc/images/e4d5d26ed6d1ec062d1dd3baadbb5098.jpg",
+                            "locale": "en",
+                            "title": "Sell virtual items"
+                        }
+                    ],
+                    "order": 1,
+                    "regions": [
+                    ],
+                    "type": "item"
+                }
+            ],
+            "game_id": 80,
+            "id": 1379,
+            "is_default": false,
+            "order": 2,
+            "regions": [
+            ],
+            "size": "square",
+            "title": "Square group 1"
+        },
+        {
+            "banners": [
+                {
+                    "action": "opennews:269",
+                    "attributes": [
+                    ],
+                    "date": 1525690550,
+                    "expression": "",
+                    "id": 498,
+                    "localized_contents": [
+                        {
+                            "description": "Description about first news banner for game 2",
+                            "id": 737,
+                            "image": "https://cdn.xsolla.net/img/misc/images/011662ce83091294b5de09450e515517.jpg",
+                            "locale": "en",
+                            "title": "News article"
+                        }
+                    ],
+                    "order": 1,
+                    "regions": [
+                    ],
+                    "type": "article"
+                }
+            ],
+            "game_id": 81,
+            "id": 1380,
+            "is_default": false,
+            "order": 2,
+            "regions": [
+            ],
+            "size": "square",
+            "title": "Square group 2"
+        }
+    ]
+}

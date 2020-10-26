@@ -1,0 +1,69 @@
+{
+    "banner_news": [
+        {
+            "action": "opennews:642",
+            "date": 1543491623,
+            "game_id": null,
+            "id": 339,
+            "image": "//cdn.xsolla.net/img/misc/images/6a682a941a45afbcfb28cc906e858da6.jpg",
+            "locale": "en",
+            "news_id": 642,
+            "order": 1,
+            "regions": [
+            ],
+            "title": "News1 for all project"
+        },
+        {
+            "action": "opennews:270",
+            "date": 1542371579,
+            "game_id": 81,
+            "id": 93,
+            "image": "//cdn.xsolla.net/img/misc/images/2d48d55be76abf3fb2a24d6adbe9b422.jpg",
+            "locale": "en",
+            "news_id": 270,
+            "order": 1,
+            "regions": [
+            ],
+            "title": "News2 for game2"
+        },
+        {
+            "action": "opennews:268",
+            "date": 1542370977,
+            "game_id": 80,
+            "id": 91,
+            "image": "//cdn.xsolla.net/img/misc/images/125038c65fc2a5cda9147da0b39dcf60.jpg",
+            "locale": "en",
+            "news_id": 268,
+            "order": 1,
+            "regions": [
+            ],
+            "title": "News2 for game1"
+        },
+        {
+            "action": "opennews:269",
+            "date": 1541075520,
+            "game_id": 81,
+            "id": 92,
+            "image": "//cdn.xsolla.net/img/misc/images/dfe9cdeedd40f165eae7b5ff6706891f.jpg",
+            "locale": "en",
+            "news_id": 269,
+            "order": 1,
+            "regions": [
+            ],
+            "title": "News1 for game2"
+        },
+        {
+            "action": "opennews:267",
+            "date": 1539692460,
+            "game_id": 80,
+            "id": 94,
+            "image": "//cdn.xsolla.net/img/misc/images/ea4dea07c72f05feae1b8a43e8d7d570.jpg",
+            "locale": "en",
+            "news_id": 267,
+            "order": 1,
+            "regions": [
+            ],
+            "title": "News1 for game1"
+        }
+    ]
+}

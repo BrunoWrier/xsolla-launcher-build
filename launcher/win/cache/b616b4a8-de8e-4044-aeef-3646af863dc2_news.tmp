@@ -1,0 +1,23 @@
+{
+    "news": [
+        {
+            "category": "default",
+            "date": 1588777108,
+            "featured_image": "//cdn3.xsolla.com/img/misc/images/505719b99e415d58fb55fcd601e77fea.png",
+            "featured_order": 1,
+            "game_id": 3053,
+            "id": 5216,
+            "image": "https://cdn3.xsolla.com/img/misc/images/1b5975c2aeeb2f026851e1260bc3f1dc.jpg",
+            "is_draft": false,
+            "locale": "en",
+            "pin_to_top_order": 1,
+            "regions": [
+            ],
+            "text_long": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p><span style=\"color: #dcddde; font-family: Whitney, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; white-space: break-spaces; background-color: rgba(250, 166, 26, 0.08); --darkreader-inline-color: #e0deda; --darkreader-inline-bgcolor: rgba(184, 117, 4, 0.08);\" data-darkreader-inline-color=\"\" data-darkreader-inline-bgcolor=\"\">Ladies and gentlemen, today is the launch of alpha 5, so there will be a testing period. If you are an alpha tester and already have access to the game through our launcher, then you can update the game normally without problems. For those who are not alpha testers, you have a chance to become an alpha tester! With each update, it is faster to develop, I expect at least a beta at the end of the year, you can also support us on patreon or make a donation via paypal for a faster development of the game. Thank you for your support! Stay safe :v</span></p>\n</body>\n</html>",
+            "text_short": "New update on Exotic Online",
+            "title": "Alpha 5 is here!"
+        }
+    ],
+    "next_after": null,
+    "next_url": null
+}

@@ -1,0 +1,170 @@
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+2020-10-26T18:08:57	INFO	Main	Launcher version:  2.3.0
+2020-10-26T18:08:57	INFO	Main	OperationSystemVersion: Windows v10.0.18363
+2020-10-26T18:08:57	INFO	default	UrlsManager::init.
+2020-10-26T18:08:57	INFO	default	ConfigManager: init.
+2020-10-26T18:08:57	INFO	default	ConfigManager: init theme.
+2020-10-26T18:08:57	INFO	default	LOG MANAGER: New launcher id:  "b616b4a8-de8e-4044-aeef-3646af863dc2"
+2020-10-26T18:08:57	INFO	default	Start loading bannerslist
+2020-10-26T18:08:57	INFO	default	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_groups?locale=en&region="
+2020-10-26T18:08:58	DEBUG	default	SET REGIONS CONTROLLER
+2020-10-26T18:08:58	INFO	default	System region:  "br"
+2020-10-26T18:08:58	DEBUG	default	SET SYSTEM REGIONS CONTROLLER
+2020-10-26T18:08:58	INFO	RPCController	rpc server started. Port: 62328
+2020-10-26T18:08:58	DEBUG	RPCServer	connected
+2020-10-26T18:08:58	DEBUG	default	Raven client is ready.
+2020-10-26T18:08:58	INFO	default	Loading fonts.
+2020-10-26T18:08:58	INFO	Main	   Ok!
+2020-10-26T18:08:58	INFO	ConfigurationReceiver	Start loading project configuration
+2020-10-26T18:08:59	INFO	MetricsSender	Sending success
+2020-10-26T18:08:59	INFO	BannersReceiver	Can't getting banner info, timeout error
+2020-10-26T18:08:59	DEBUG	ConfigurationReceiver	Loading project configuration finished: 
+2020-10-26T18:08:59	DEBUG	ConfigurationReceiver	Loading locales list finished
+2020-10-26T18:08:59	INFO	ConfigurationReceiver	Updated version don't needed
+2020-10-26T18:08:59	INFO	ConfigurationReceiver	Start parse configuration
+2020-10-26T18:08:59	DEBUG	ConfigurationReceiver	Use CDN: "https://launcher-game-update.s3.amazonaws.com"
+2020-10-26T18:08:59	DEBUG	ConfigurationReceiver	isChatEnabled =  false
+2020-10-26T18:08:59	INFO	ConfigurationReceiver	Use local configuration
+2020-10-26T18:08:59	INFO	ConfigurationReceiver	Start load template release
+2020-10-26T18:08:59	DEBUG	default	Sentry log ID  "{\"id\":\"d80bda2c4bca2b661ef2ca7ad542adc5\"}"
+2020-10-26T18:09:00	DEBUG	ConfigurationReceiver	Loading template release info finished: 
+2020-10-26T18:09:00	INFO	LanguageManager	Set application language:  "en"
+2020-10-26T18:09:00	INFO	LanguageManager	true
+2020-10-26T18:09:00	INFO	StoreController	Getting store token
+2020-10-26T18:09:00	DEBUG	NewsReceiver	newsListUrl  "https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/news?limit=10&locale=en&region=br"
+2020-10-26T18:09:00	DEBUG	NewsReceiver	bannerNewsUrl  "https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_news?locale=en&region=br"
+2020-10-26T18:09:00	INFO	NewsReceiver	Load news list
+2020-10-26T18:09:00	INFO	NewsReceiver	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/news?limit=10&locale=en&region=br"
+2020-10-26T18:09:00	INFO	NewsReceiver	Load banner news list
+2020-10-26T18:09:00	INFO	NewsReceiver	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_news?locale=en&region=br"
+2020-10-26T18:09:00	INFO	HomePageDownloader	Start update home page
+2020-10-26T18:09:00	DEBUG	default	"2020-10-26T18:09:00.662Z"
+2020-10-26T18:09:02	DEBUG	LauncherUpdater	 check updates!
+2020-10-26T18:09:02	DEBUG	LauncherUpdater	Url:  QUrl("https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/launcher_releases/latest?architecture=x86")
+2020-10-26T18:09:02	WARNING	NewsReceiver	Can't getting news banner info, timeout error
+2020-10-26T18:09:02	WARNING	NewsReceiver	Can't getting news info, timeout error
+2020-10-26T18:09:03	INFO	HomePageDownloader	Home page res downloaded "C:/Users/Bruno/Desktop/xsolla-launcher-build-master/launcher/win/WebData/home_page_temp.7z_temp"
+2020-10-26T18:09:03	DEBUG	default	Decompress by:  "wrapper"  in queue:  ("process")
+2020-10-26T18:09:03	DEBUG	Lib7zWrapper	Extract multipart archive
+2020-10-26T18:09:03	DEBUG	LauncherUpdater	No updates available.
+2020-10-26T18:09:04	INFO	default	[EventsTracker]: Event successfully sent!
+2020-10-26T18:09:05	DEBUG	logCatXsollaAuth	LOGIN URL QUrl("https://login.xsolla.com/api/login?projectId=e0fb681e-3665-11ea-b687-42010aa80004&login_url=https://login.xsolla.com/api/blank")
+2020-10-26T18:09:06	DEBUG	default	"2020-10-26T18:09:06.160Z"
+2020-10-26T18:09:06	DEBUG	qml	Load games data
+2020-10-26T18:09:06	INFO	MetricsSender	Sending success
+2020-10-26T18:09:06	INFO	default	[EventsTracker]: Event successfully sent!
+2020-10-26T18:09:07	INFO	GamesModel	"Redeem key for game Exotic Online(51809) :" true
+2020-10-26T18:09:07	WARNING	InGameTimeTracker	nothing to update skip
+2020-10-26T18:09:07	INFO	GamesModel	"Redeem key for game Simon The Lumberjack(52637) :" false
+2020-10-26T18:09:07	WARNING	InGameTimeTracker	nothing to update skip
+2020-10-26T18:09:07	INFO	default	Start loading bannerslist
+2020-10-26T18:09:07	INFO	default	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_groups?locale=en&region=br&game_id=3053"
+2020-10-26T18:09:07	DEBUG	default	Sentry log ID  "{\"id\":\"d04a98caf004756ecb58fb834bba63c2\"}"
+2020-10-26T18:09:07	INFO	BannersReceiver	Bannerslist loading is finished!
+2020-10-26T18:09:08	DEBUG	RegionsController	Loading regions success
+2020-10-26T18:09:08	DEBUG	default	regionCode is empty, break
+2020-10-26T18:09:08	DEBUG	UserManager	Loading social relationships finished
+2020-10-26T18:09:08	DEBUG	logCatRTS	RTS session started
+2020-10-26T18:09:08	DEBUG	RegionsController	Loading regions success
+2020-10-26T18:09:08	DEBUG	default	regionCode is empty, break
+2020-10-26T18:09:08	INFO	GameAccessController	Checking game access SKU "Exotic-Online"
+2020-10-26T18:09:08	INFO	logCat RegionsModel	Try get region by unaviable index
+2020-10-26T18:09:09	INFO	GameAccessController	Checking game access success
+2020-10-26T18:09:09	INFO	GameAccessController	"Ownership of game Exotic Online(51809package: Exotic-Online) is true"
+2020-10-26T18:09:09	INFO	LanguageManager	Set application language:  "en"
+2020-10-26T18:09:09	INFO	LanguageManager	true
+2020-10-26T18:09:09	INFO	StoreController	Getting store token
+2020-10-26T18:09:09	DEBUG	NewsReceiver	newsListUrl  "https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/news?limit=10&locale=en&region=br"
+2020-10-26T18:09:09	DEBUG	NewsReceiver	bannerNewsUrl  "https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_news?locale=en&region=br"
+2020-10-26T18:09:09	INFO	NewsReceiver	Load news list
+2020-10-26T18:09:09	INFO	NewsReceiver	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/news?limit=10&locale=en&region=br"
+2020-10-26T18:09:09	INFO	NewsReceiver	Load banner news list
+2020-10-26T18:09:09	INFO	NewsReceiver	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_news?locale=en&region=br"
+2020-10-26T18:09:09	DEBUG	NewsReceiver	newsListUrl  "https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/news?limit=10&locale=en&region=br&game_id=3053"
+2020-10-26T18:09:09	DEBUG	NewsReceiver	bannerNewsUrl  "https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_news?locale=en&region=br&game_id=3053"
+2020-10-26T18:09:09	INFO	NewsReceiver	Load news list
+2020-10-26T18:09:09	INFO	NewsReceiver	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/news?limit=10&locale=en&region=br&game_id=3053"
+2020-10-26T18:09:09	INFO	NewsReceiver	Load banner news list
+2020-10-26T18:09:09	INFO	NewsReceiver	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_news?locale=en&region=br&game_id=3053"
+2020-10-26T18:09:09	DEBUG	NewsReceiver	newsListUrl  "https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/news?limit=10&locale=en&region=br&game_id=3203"
+2020-10-26T18:09:09	DEBUG	NewsReceiver	bannerNewsUrl  "https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_news?locale=en&region=br&game_id=3203"
+2020-10-26T18:09:09	INFO	NewsReceiver	Load news list
+2020-10-26T18:09:09	INFO	NewsReceiver	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/news?limit=10&locale=en&region=br&game_id=3203"
+2020-10-26T18:09:09	INFO	NewsReceiver	Load banner news list
+2020-10-26T18:09:09	INFO	NewsReceiver	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_news?locale=en&region=br&game_id=3203"
+2020-10-26T18:09:09	DEBUG	NewsReceiver	newsListUrl  "https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/news?limit=10&locale=en&region=br"
+2020-10-26T18:09:09	DEBUG	NewsReceiver	bannerNewsUrl  "https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_news?locale=en&region=br"
+2020-10-26T18:09:09	INFO	NewsReceiver	Load news list
+2020-10-26T18:09:09	INFO	NewsReceiver	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/news?limit=10&locale=en&region=br"
+2020-10-26T18:09:09	INFO	NewsReceiver	Load banner news list
+2020-10-26T18:09:09	INFO	NewsReceiver	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_news?locale=en&region=br"
+2020-10-26T18:09:09	DEBUG	qml	Load games data finished!
+2020-10-26T18:09:11	WARNING	default	qrc:/qml/MainWindow/MainWindow.qml:592:9: QML XImage: Error Reading Animated Image File file:///C:/Users/Bruno/Desktop/xsolla-launcher-build-master/launcher/win/
+2020-10-26T18:09:11	WARNING	default	qrc:/qml/MainWindow/MainWindow.qml:592:9: QML XImage: Error Reading Animated Image File file:///C:/Users/Bruno/Desktop/xsolla-launcher-build-master/launcher/win/
+2020-10-26T18:09:11	WARNING	default	Qt WebEngine ICU data not found at C:/Qt/5.10.0/msvc2015_64/resources. Trying parent directory...
+2020-10-26T18:09:11	WARNING	default	Qt WebEngine ICU data not found at C:/Qt/5.10.0/msvc2015_64. Trying application directory...
+2020-10-26T18:09:11	WARNING	default	Installed Qt WebEngine locales directory not found at location C:/Qt/5.10.0/msvc2015_64/translations\qtwebengine_locales. Trying application directory...
+2020-10-26T18:09:11	WARNING	default	Qt WebEngine locales directory not found at location C:/Users/Bruno/Desktop/xsolla-launcher-build-master/launcher/win\qtwebengine_locales. Trying fallback directory... Translations MAY NOT not be correct.
+2020-10-26T18:09:12	WARNING	default	Qt WebEngine resources not found at C:/Qt/5.10.0/msvc2015_64/resources. Trying parent directory...
+2020-10-26T18:09:12	WARNING	default	Qt WebEngine resources not found at C:/Qt/5.10.0/msvc2015_64. Trying application directory...
+2020-10-26T18:09:13	INFO	default	Start loading bannerslist
+2020-10-26T18:09:13	INFO	default	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_groups?locale=en&region=br&game_id=3053"
+2020-10-26T18:09:13	INFO	XsollaDownloader	start checking updates
+2020-10-26T18:09:13	DEBUG	XsollaDownloader	data version:  "10"
+2020-10-26T18:09:13	DEBUG	XsollaDownloader	check updates url:  QUrl("https://gus.xsolla.com/updates?version=10&project_id=51809&region=&gds_version=1&platform=windows")
+2020-10-26T18:09:13	WARNING	NewsReceiver	Can't getting news banner info, timeout error
+2020-10-26T18:09:13	WARNING	NewsReceiver	Can't getting news info, timeout error
+2020-10-26T18:09:13	WARNING	NewsReceiver	Can't getting news banner info, timeout error
+2020-10-26T18:09:13	WARNING	NewsReceiver	Can't getting news info, timeout error
+2020-10-26T18:09:13	WARNING	NewsReceiver	Can't getting news banner info, timeout error
+2020-10-26T18:09:13	WARNING	NewsReceiver	Can't getting news info, timeout error
+2020-10-26T18:09:13	WARNING	NewsReceiver	Can't getting news banner info, timeout error
+2020-10-26T18:09:13	WARNING	NewsReceiver	Can't getting news info, timeout error
+2020-10-26T18:09:13	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:09:13	INFO	BannersReceiver	Bannerslist loading is finished!
+2020-10-26T18:09:13	DEBUG	LauncherManager	Loading Link Social Networks finished
+2020-10-26T18:09:14	INFO	StoreController	Getting store token successfully:  "9lpagnIyq1Rqqpofyp8Xst9HOYcjtWsp"
+2020-10-26T18:09:14	INFO	StoreController	Getting items list
+2020-10-26T18:09:15	DEBUG	default	Key prefix: "launcher/Failed get items list/b616b4a8-de8e-4044-aeef-3646af863dc2/brunowrier@gmail.com/"
+2020-10-26T18:09:22	CRITICAL	js	WebSocket connection to 'ws://localhost:55551/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+2020-10-26T18:09:58	WARNING	default	qrc:/qml/LoginWindow/RegionsComboBox.qml:101:13: QML Rectangle: Binding loop detected for property "width"
+2020-10-26T18:09:58	WARNING	default	qrc:/qml/LoginWindow/RegionsComboBox.qml:101:13: QML Rectangle: Binding loop detected for property "width"
+2020-10-26T18:10:00	WARNING	default	qrc:/qml/MainWindow/MainWindow.qml:592:9: QML XImage: Error Reading Animated Image File file:///C:/Users/Bruno/Desktop/xsolla-launcher-build-master/launcher/win/
+2020-10-26T18:10:01	DEBUG	NewsReceiver	newsListUrl  "https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/news?limit=10&locale=en&region=br"
+2020-10-26T18:10:01	DEBUG	NewsReceiver	bannerNewsUrl  "https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_news?locale=en&region=br"
+2020-10-26T18:10:01	INFO	NewsReceiver	Load news list
+2020-10-26T18:10:01	INFO	NewsReceiver	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/news?limit=10&locale=en&region=br"
+2020-10-26T18:10:01	INFO	NewsReceiver	Load banner news list
+2020-10-26T18:10:01	INFO	NewsReceiver	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_news?locale=en&region=br"
+2020-10-26T18:10:01	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:10:01	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:10:01	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:10:01	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:10:01	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:10:01	WARNING	default	qrc:/qml/LoginWindow/RegionsComboBox.qml:101:13: QML Rectangle: Binding loop detected for property "width"
+2020-10-26T18:10:01	WARNING	default	qrc:/qml/LoginWindow/RegionsComboBox.qml:101:13: QML Rectangle: Binding loop detected for property "width"
+2020-10-26T18:10:01	WARNING	default	qrc:/qml/MainWindow/MainWindow.qml:592:9: QML XImage: Error Reading Animated Image File file:///C:/Users/Bruno/Desktop/xsolla-launcher-build-master/launcher/win/
+2020-10-26T18:10:01	INFO	NewsReceiver	Banner news list loading finished!
+2020-10-26T18:10:02	DEBUG	NewsReceiver	newsListUrl  "https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/news?limit=10&locale=en&region=br"
+2020-10-26T18:10:02	DEBUG	NewsReceiver	bannerNewsUrl  "https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_news?locale=en&region=br"
+2020-10-26T18:10:02	INFO	NewsReceiver	Load news list
+2020-10-26T18:10:02	INFO	NewsReceiver	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/news?limit=10&locale=en&region=br"
+2020-10-26T18:10:02	INFO	NewsReceiver	Load banner news list
+2020-10-26T18:10:02	INFO	NewsReceiver	"Url: https://launcher.xsolla.com/projects/b616b4a8-de8e-4044-aeef-3646af863dc2/banner_news?locale=en&region=br"
+2020-10-26T18:10:02	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:10:02	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:10:02	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:10:02	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:10:02	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:10:03	INFO	NewsReceiver	Banner news list loading finished!
+2020-10-26T18:10:05	CRITICAL	js	WebSocket connection to 'ws://localhost:55551/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED
+2020-10-26T18:10:07	INFO	XsollaDownloader	stop. Start destroy transactor
+2020-10-26T18:10:07	WARNING	default	QFileDevice::flush: No file engine. Is IODevice open?
+2020-10-26T18:10:07	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:10:07	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:10:07	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:10:07	WARNING	default	QCoreApplication::postEvent: Unexpected null receiver
+2020-10-26T18:10:07	INFO	MetricsSender	Sending success

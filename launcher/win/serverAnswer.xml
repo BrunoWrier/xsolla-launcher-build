@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?> <actions version="0">
+    <action type="extracted_size" data_size="172011755"></action>
+    <action type="torrent_download" torrent_type="3" torrent_link="https://launcher-game-update.s3.amazonaws.com/1375/full_games/full_game_/full_game_03427cd1c11b613bc3c04f5e38ee0724_.7z.001?torrent" torrent_file="C:/Games/Pixel Time/Exotic Online/default/update/full_game_03427cd1c11b613bc3c04f5e38ee0724_.7z.001.torrent" to="C:/Games/Pixel Time/Exotic Online/default/update/" alt_data_link="1375/full_games/full_game_/full_game_03427cd1c11b613bc3c04f5e38ee0724_.7z.001" alt_to="C:/Games/Pixel Time/Exotic Online/default/update/full_game_03427cd1c11b613bc3c04f5e38ee0724_.7z.001" data_size="99096259"></action>
+    <action type="wait_actions"></action>
+    <action type="extract" file="C:/Games/Pixel Time/Exotic Online/default/update/full_game_03427cd1c11b613bc3c04f5e38ee0724_.7z.001" format="7z" to="C:/Games/Pixel Time/Exotic Online/default/game//"></action>
+    <action type="wait_actions"></action>
+    <action type="version" version="10"></action>
+ </actions>

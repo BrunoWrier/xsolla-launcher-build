@@ -1,0 +1,1026 @@
+{
+    "callback_url": "https://login.xsolla.com/api/blank",
+    "cdn_urls": [
+        "https://57764.gcdn.co"
+    ],
+    "chat_and_friends_enabled": true,
+    "configuration_json": {
+        "always_open_default_news_tab": false,
+        "cdn_block_size": 1048576,
+        "cdn_network_timeout": 30000,
+        "cdn_try_load_count": 6,
+        "check_update_interval": 10800000,
+        "custom_launcher_version": "",
+        "default_news_tab": "",
+        "default_p2p_enabled": true,
+        "enable_path_customize": false,
+        "ga_tracking_id": "",
+        "game_autoupdate": false,
+        "games_directory": "Games",
+        "hide_email": true,
+        "hide_launcher_in_tray": true,
+        "hide_news_page": false,
+        "hide_peer_seed_info": false,
+        "is_username_email": false,
+        "link_community": "",
+        "link_support": "",
+        "playfab_project_id": "FB8D",
+        "relative_game_paths": "",
+        "rpc_debug_port": 0,
+        "steam_app_id": 480,
+        "stone_app_id": "",
+        "store_token_life_time": 23,
+        "use_playfab_id_in_store": false,
+        "use_playfab_login": false,
+        "use_xsolla_login": true
+    },
+    "default_cdn": "https://launcher-game-update.s3.amazonaws.com",
+    "external_id": "8c91ecf3-e7b0-46a8-aaf7-4c419ef8ef4b",
+    "games": [
+        {
+            "arts": [
+                {
+                    "date": 1569232362,
+                    "id": 1252,
+                    "is_draft": false,
+                    "localized_contents": [
+                        {
+                            "description": "RU_Preorder Mass Effect Andromeda2",
+                            "link": "https://res.cloudinary.com/lmn/image/upload/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/w/a/l/wall-6d83d.jpg",
+                            "locale": "en",
+                            "title": "RU_Mass Effect Andromeda2"
+                        }
+                    ],
+                    "ordering": 1,
+                    "type": "img"
+                },
+                {
+                    "date": 1569232362,
+                    "id": 1253,
+                    "is_draft": false,
+                    "localized_contents": [
+                        {
+                            "description": "Description of art to LauncherProductGame1",
+                            "link": "https://games.mail.ru/pic/pc/video/39099/lead_pic/412df.jpeg",
+                            "locale": "en",
+                            "title": "Art for LauncherProductGame1"
+                        }
+                    ],
+                    "ordering": 1,
+                    "type": "img"
+                }
+            ],
+            "buy_option_enabled": false,
+            "executive_file": "game.exe",
+            "game_icon": "",
+            "game_link": "",
+            "game_logo": "http://cdn.xsolla.net/img/misc/images/7fe5b18acc218b85289da75b48ff2885.png",
+            "game_page_enabled": true,
+            "id": 80,
+            "installation_directory": "LauncherProductGame1",
+            "is_feature": true,
+            "is_new": false,
+            "key_redeem_enabled": false,
+            "localized_contents": [
+                {
+                    "big_feature_image": "http://cdn.xsolla.net/img/misc/images/f6d8e266735e0ca5b1f5a608a51d8131.jpg",
+                    "description": "",
+                    "details": "",
+                    "game_logo": "",
+                    "genre": "",
+                    "id": 36,
+                    "locale": "en",
+                    "small_feature_image": "http://cdn.xsolla.net/img/misc/images/f6d8e266735e0ca5b1f5a608a51d8131.jpg",
+                    "system_requirements": "",
+                    "title": "<p><span style=\"color: #ffffe0;\"><span style=\"font-family: comic sans ms,cursive;\">Some title of game 1</span></span></p>"
+                }
+            ],
+            "maintenance": {
+                "active": false,
+                "description": "",
+                "title": ""
+            },
+            "name": "LauncherProductGame1",
+            "notifications_enabled": false,
+            "ordering": 2,
+            "packages": [
+                {
+                    "default_currency": "USD",
+                    "drm": [
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 1,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/1.1472111837.svg",
+                            "name": "Steam",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 2,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/2.1535378400.svg",
+                            "name": "Playstation",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 3,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/3.1460367796.svg",
+                            "name": "XBox",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 4,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/4.1460367796.svg",
+                            "name": "Uplay",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 5,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/5.1460367796.svg",
+                            "name": "Origin",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 2,
+                                "total": 2,
+                                "used": 0
+                            },
+                            "enabled": true,
+                            "id": 6,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/6.1509084108.svg",
+                            "name": "DRM Free",
+                            "platforms": [
+                                {
+                                    "id": 1,
+                                    "name": "Windows"
+                                }
+                            ],
+                            "prices": {
+                                "USD": 0.1
+                            }
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 7,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/7.1492784697.svg",
+                            "name": "GOG",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 8,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/8.1552388968.svg",
+                            "name": "Epic Games Store",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 9,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/9.1556598030.svg",
+                            "name": "Nintendo Switch eShop",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 10,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/10.1556598031.svg",
+                            "name": "Discord Game Store",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 11,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/11.1560137277.svg",
+                            "name": "Oculus",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        }
+                    ],
+                    "id": 3152,
+                    "image_url": "//cdn3.xsolla.com/img/misc/merchant/default-item.png",
+                    "localized_name": "Product GAme",
+                    "parent_id": null,
+                    "sku": "testproductgame1",
+                    "widget_settings": {
+                        "description_enabled": false,
+                        "image_enabled": false
+                    }
+                }
+            ],
+            "picture": "//cdn.xsolla.net/img/misc/images/e4edbf22c5c5408b8c2b8315177b4e40.jpg",
+            "publisher_project_id": 29235,
+            "return_url": "https://publisher.xsolla.com/2340/projects/new",
+            "saved_game_data": [
+            ],
+            "sku": "testproductgame1",
+            "store_enabled": true,
+            "store_link": "https://some_store.io",
+            "url": "https://example.com"
+        },
+        {
+            "arts": [
+                {
+                    "date": 1535627752,
+                    "id": 4,
+                    "is_draft": false,
+                    "localized_contents": [
+                        {
+                            "description": "EN_video description 1",
+                            "link": "https://youtu.be/1MePIsFa2wE",
+                            "locale": "en",
+                            "title": "EN_video 1 for game 2"
+                        }
+                    ],
+                    "ordering": 1,
+                    "type": "video"
+                },
+                {
+                    "date": 1542360435,
+                    "id": 44,
+                    "is_draft": false,
+                    "localized_contents": [
+                        {
+                            "description": "LauncherProductGame2",
+                            "link": "https://cdn.xsolla.net/img/misc/images/d28d82e844e310c34c08d524979994fd.jpg",
+                            "locale": "en",
+                            "title": "image_1"
+                        }
+                    ],
+                    "ordering": 2,
+                    "type": "img"
+                },
+                {
+                    "date": 1542360470,
+                    "id": 45,
+                    "is_draft": false,
+                    "localized_contents": [
+                        {
+                            "description": "LauncherProductGame2",
+                            "link": "https://cdn.xsolla.net/img/misc/images/e4d5d26ed6d1ec062d1dd3baadbb5098.jpg",
+                            "locale": "en",
+                            "title": "image_2"
+                        }
+                    ],
+                    "ordering": 3,
+                    "type": "img"
+                },
+                {
+                    "date": 1542360484,
+                    "id": 46,
+                    "is_draft": false,
+                    "localized_contents": [
+                        {
+                            "description": "LauncherProductGame2",
+                            "link": "https://cdn.xsolla.net/img/misc/images/011662ce83091294b5de09450e515517.jpg",
+                            "locale": "en",
+                            "title": "image_3"
+                        }
+                    ],
+                    "ordering": 3,
+                    "type": "img"
+                },
+                {
+                    "date": 1542360650,
+                    "id": 47,
+                    "is_draft": false,
+                    "localized_contents": [
+                        {
+                            "description": "LauncherProductGame2",
+                            "link": "https://cdn.xsolla.net/img/misc/images/3d5b9ff0f71a8d9a4d8fcb61b0db4eee.jpg",
+                            "locale": "en",
+                            "title": "image_4"
+                        }
+                    ],
+                    "ordering": 4,
+                    "type": "img"
+                }
+            ],
+            "buy_option_enabled": true,
+            "executive_file": "game.exe",
+            "game_icon": "",
+            "game_link": "https://xsolla.com/products/launcher",
+            "game_logo": "http://cdn.xsolla.net/img/misc/images/7fe5b18acc218b85289da75b48ff2885.png",
+            "game_page_enabled": true,
+            "id": 81,
+            "installation_directory": "LauncherProductGame2",
+            "is_feature": true,
+            "is_new": true,
+            "key_redeem_enabled": false,
+            "localized_contents": [
+                {
+                    "big_feature_image": "http://cdn.xsolla.net/img/misc/images/b86d8b7e97b644971f3e6b6ff01f1ee0.jpg",
+                    "description": "<p><span style=\"color:#FFFFE0\">This is a massively multiplayer online game with a sci-fi plot, which takes place in space.",
+                    "details": "<p><span style=\"color:#FFFFE0\">The playing environment consists of more than 5000 star systems, as well as 2500 randomly accessible wormhole systems. Star systems contain different types of celestial objects, making them more or less suitable for different kinds of operations. Typically, players find asteroid fields, planets, stations, stargates, and moons in a system.</span></p>",
+                    "game_logo": "",
+                    "genre": "MMORPG",
+                    "id": 35,
+                    "locale": "en",
+                    "small_feature_image": "http://cdn.xsolla.net/img/misc/images/b86d8b7e97b644971f3e6b6ff01f1ee0.jpg",
+                    "system_requirements": "<p><span style=\"color:#FFFFE0\">OS: Windows 7 64-bit.\nPU: Intel Core i3-2100 3.1 GHz or AMD Phenom II X4 965 3.4 GHz.\nRAM: 8 GB System Memory.\nGPU RAM: 1GB Video Memory.\nGPU: GeForce GTX 460 or Radeon R7 260.\nDX: DirectX 11.\nHDD: 50GB Available Hard Drive",
+                    "title": "<p><span style=\"color:#FFFFE0\"><span style=\"font-family:comic sans ms,cursive\">Some title of game 2</span></span></p>"
+                }
+            ],
+            "maintenance": {
+                "active": false,
+                "description": "",
+                "title": ""
+            },
+            "name": "LauncherProductGame2",
+            "notifications_enabled": false,
+            "ordering": 1,
+            "packages": [
+                {
+                    "default_currency": "USD",
+                    "drm": [
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 1,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/1.1472111837.svg",
+                            "name": "Steam",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 2,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/2.1535378400.svg",
+                            "name": "Playstation",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 3,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/3.1460367796.svg",
+                            "name": "XBox",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 4,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/4.1460367796.svg",
+                            "name": "Uplay",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 5,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/5.1460367796.svg",
+                            "name": "Origin",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 7,
+                                "total": 7,
+                                "used": 0
+                            },
+                            "enabled": true,
+                            "id": 6,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/6.1509084108.svg",
+                            "name": "DRM Free",
+                            "platforms": [
+                                {
+                                    "id": 1,
+                                    "name": "Windows"
+                                }
+                            ],
+                            "prices": {
+                                "USD": 0.1
+                            }
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 7,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/7.1492784697.svg",
+                            "name": "GOG",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 8,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/8.1552388968.svg",
+                            "name": "Epic Games Store",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 9,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/9.1556598030.svg",
+                            "name": "Nintendo Switch eShop",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 10,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/10.1556598031.svg",
+                            "name": "Discord Game Store",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 11,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/11.1560137277.svg",
+                            "name": "Oculus",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        }
+                    ],
+                    "id": 3702,
+                    "image_url": "//cdn3.xsolla.com/img/misc/images/d7186d7069e1c8718c9dc88504320111.png",
+                    "localized_name": "Package1",
+                    "parent_id": null,
+                    "sku": "Package1",
+                    "widget_settings": {
+                        "description_enabled": false,
+                        "image_enabled": false
+                    }
+                },
+                {
+                    "default_currency": "USD",
+                    "drm": [
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 1,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/1.1472111837.svg",
+                            "name": "Steam",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 2,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/2.1535378400.svg",
+                            "name": "Playstation",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 3,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/3.1460367796.svg",
+                            "name": "XBox",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 4,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/4.1460367796.svg",
+                            "name": "Uplay",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 5,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/5.1460367796.svg",
+                            "name": "Origin",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 6,
+                                "total": 6,
+                                "used": 0
+                            },
+                            "enabled": true,
+                            "id": 6,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/6.1509084108.svg",
+                            "name": "DRM Free",
+                            "platforms": [
+                                {
+                                    "id": 1,
+                                    "name": "Windows"
+                                }
+                            ],
+                            "prices": {
+                                "USD": 0.3
+                            }
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 7,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/7.1492784697.svg",
+                            "name": "GOG",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 8,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/8.1552388968.svg",
+                            "name": "Epic Games Store",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 9,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/9.1556598030.svg",
+                            "name": "Nintendo Switch eShop",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 10,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/10.1556598031.svg",
+                            "name": "Discord Game Store",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 11,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/11.1560137277.svg",
+                            "name": "Oculus",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        }
+                    ],
+                    "id": 3703,
+                    "image_url": "//cdn3.xsolla.com/img/misc/images/bd0ec93a350e5596530dff525149add4.png",
+                    "localized_name": "Package2",
+                    "parent_id": null,
+                    "sku": "Package2",
+                    "widget_settings": {
+                        "description_enabled": false,
+                        "image_enabled": false
+                    }
+                },
+                {
+                    "default_currency": "USD",
+                    "drm": [
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 1,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/1.1472111837.svg",
+                            "name": "Steam",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 2,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/2.1535378400.svg",
+                            "name": "Playstation",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 3,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/3.1460367796.svg",
+                            "name": "XBox",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 4,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/4.1460367796.svg",
+                            "name": "Uplay",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 5,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/5.1460367796.svg",
+                            "name": "Origin",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": true,
+                            "id": 6,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/6.1509084108.svg",
+                            "name": "DRM Free",
+                            "platforms": [
+                                {
+                                    "id": 1,
+                                    "name": "Windows"
+                                }
+                            ],
+                            "prices": {
+                                "USD": 2
+                            }
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 7,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/7.1492784697.svg",
+                            "name": "GOG",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 8,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/8.1552388968.svg",
+                            "name": "Epic Games Store",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 9,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/9.1556598030.svg",
+                            "name": "Nintendo Switch eShop",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 10,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/10.1556598031.svg",
+                            "name": "Discord Game Store",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        },
+                        {
+                            "codes": {
+                                "active": 0,
+                                "total": 0,
+                                "used": 0
+                            },
+                            "enabled": false,
+                            "id": 11,
+                            "image": "//cdn3.xsolla.com/misc/game_delivery/drms/set2/11.1560137277.svg",
+                            "name": "Oculus",
+                            "platforms": [
+                            ],
+                            "prices": [
+                            ]
+                        }
+                    ],
+                    "id": 3707,
+                    "image_url": "//cdn3.xsolla.com/img/misc/images/f239a43c08db5feac7ab03b8f249ec80.png",
+                    "localized_name": "Package3",
+                    "parent_id": null,
+                    "sku": "Package3",
+                    "widget_settings": {
+                        "description_enabled": false,
+                        "image_enabled": false
+                    }
+                }
+            ],
+            "picture": "//cdn.xsolla.net/img/misc/images/2cf862dc24a458d634c2e83a960af95b.jpg",
+            "publisher_project_id": 29236,
+            "return_url": "https://publisher.xsolla.com/2340/projects/new",
+            "saved_game_data": [
+            ],
+            "sku": "Package1",
+            "store_enabled": false,
+            "store_link": "action_open_key_auto_redeem:Package1",
+            "url": "https://example.com"
+        }
+    ],
+    "home_page_custom_build": false,
+    "home_page_enabled": true,
+    "home_page_res_link": null,
+    "home_page_show_last_updates": true,
+    "is_mf_enabled": false,
+    "key_redeem_games": [
+    ],
+    "launcher_template_release_id": 5,
+    "link_create_account": "",
+    "link_restore_password": "",
+    "locales": [
+        "en",
+        "ru",
+        "cn",
+        "de",
+        "ar"
+    ],
+    "name": "Product launcher",
+    "publisher_logo": "http://cdn.xsolla.net/img/misc/images/cc772df27e9149745084ad8d3d34646c.png",
+    "status": "not_active",
+    "streaming_enabled": true,
+    "ui_json": {
+        "game_specific_styles": [
+            {
+                "game_id": 0,
+                "game_layout_image": "",
+                "primary_button_bg": "rgba(0, 199, 126, 1)",
+                "primary_button_text": "rgba(255, 255, 255, 1)",
+                "store_size": "large",
+                "store_theme": "dark",
+                "store_view": "horizontal_navigation"
+            }
+        ],
+        "general_styles": {
+            "launcher_icon_windows": "https://s3.amazonaws.com/launcher-stuff/General/Images/xsolla_launcher_blue.ico",
+            "links_color": "rgba(255, 255, 255, 1)",
+            "primary_background_color": "rgba(54, 57, 63, 1)",
+            "primary_button_bg": "rgba(0, 199, 126, 1)",
+            "primary_button_text": "rgba(255, 255, 255, 1)",
+            "primary_text_color": "rgba(255, 255, 255, 1)",
+            "secondary_background_color": "rgba(0, 0, 0, 0.2)",
+            "secondary_button_bg": "rgba(160, 171, 184, 1)",
+            "secondary_text_color": "rgba(255, 255, 255, 0.6)",
+            "start_page_bg": ""
+        }
+    },
+    "use_xsolla_login_links": true,
+    "xsolla_login_project_id": "bd2e1104-5494-48f9-ac50-98f230062df1"
+}

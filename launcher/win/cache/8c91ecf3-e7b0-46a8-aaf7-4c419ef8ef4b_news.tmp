@@ -1,0 +1,91 @@
+{
+    "news": [
+        {
+            "category": "default",
+            "date": 1543491623,
+            "featured_image": "//cdn.xsolla.net/img/misc/images/6a682a941a45afbcfb28cc906e858da6.jpg",
+            "featured_order": 1,
+            "game_id": null,
+            "id": 642,
+            "image": "https://cdn.xsolla.net/img/misc/images/97838ce2e178cd6d2e1f4d5109252c5d.jpg",
+            "is_draft": false,
+            "locale": "en",
+            "pin_to_top_order": 0,
+            "regions": [
+            ],
+            "text_long": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Some text</p>\n</body>\n</html>",
+            "text_short": "First news",
+            "title": "News1 for all project"
+        },
+        {
+            "category": "default",
+            "date": 1542371579,
+            "featured_image": "//cdn.xsolla.net/img/misc/images/2d48d55be76abf3fb2a24d6adbe9b422.jpg",
+            "featured_order": 1,
+            "game_id": 81,
+            "id": 270,
+            "image": "https://cdn.xsolla.net/img/misc/images/fc60812d11c967edc24fcbc530a0ed3c.jpg",
+            "is_draft": false,
+            "locale": "en",
+            "pin_to_top_order": 0,
+            "regions": [
+            ],
+            "text_long": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>... and here too</p>\n</body>\n</html>",
+            "text_short": "... and here too",
+            "title": "News2 for game2"
+        },
+        {
+            "category": "default",
+            "date": 1542370977,
+            "featured_image": "//cdn.xsolla.net/img/misc/images/125038c65fc2a5cda9147da0b39dcf60.jpg",
+            "featured_order": 1,
+            "game_id": 80,
+            "id": 268,
+            "image": "https://cdn.xsolla.net/img/misc/images/b7b1a36e81924e83094cb6d1ffd55bbf.jpg",
+            "is_draft": false,
+            "locale": "en",
+            "pin_to_top_order": 0,
+            "regions": [
+            ],
+            "text_long": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>It's a second news</p>\n<p>Btw, you can add some videos and pictures.</p>\n<p><img src=\"https://www.youtube.com/watch?v=YyZKjhon6-o\" alt=\"\" /><iframe src=\"//www.youtube.com/embed/1MePIsFa2wE\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n</body>\n</html>",
+            "text_short": "It's a second news\n",
+            "title": "News2 for game1"
+        },
+        {
+            "category": "default",
+            "date": 1541075520,
+            "featured_image": "//cdn.xsolla.net/img/misc/images/dfe9cdeedd40f165eae7b5ff6706891f.jpg",
+            "featured_order": 1,
+            "game_id": 81,
+            "id": 269,
+            "image": "https://cdn.xsolla.net/img/misc/images/42bb4d21f1cb99da4b3e6dc5f8147857.jpg",
+            "is_draft": false,
+            "locale": "en",
+            "pin_to_top_order": 0,
+            "regions": [
+            ],
+            "text_long": "<p>Deadpool was here</p>",
+            "text_short": "Deadpool was here",
+            "title": "News1 for game2"
+        },
+        {
+            "category": "default",
+            "date": 1539692460,
+            "featured_image": "//cdn.xsolla.net/img/misc/images/ea4dea07c72f05feae1b8a43e8d7d570.jpg",
+            "featured_order": 1,
+            "game_id": 80,
+            "id": 267,
+            "image": "https://cdn.xsolla.net/img/misc/images/354599a61fd57f703e89a1c0c861380a.jpg",
+            "is_draft": false,
+            "locale": "en",
+            "pin_to_top_order": 0,
+            "regions": [
+            ],
+            "text_long": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>It's a first news</p>\n<p><br /><iframe src=\"//www.youtube.com/embed/1MePIsFa2wE\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n</body>\n</html>",
+            "text_short": "It's a first news\n\n",
+            "title": "News1 for game1"
+        }
+    ],
+    "next_after": null,
+    "next_url": null
+}

@@ -3,40 +3,6 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [2.5.1] - 2020-08-07
-### Fixed
-- Minor bugs
-
-## [2.5.0] - 2020-06-26 
-### Added 
-- User authentication with the OAuth 2.0 protocol 
-### Fixed 
-- Minor bugs
-
-## [2.4.5] - 2020-05-27
-### Changed
-- Behavior when trying to launch the second instance of the Launcher
-
-## [2.4.4] - 2020-04-20
-### Added
-- Config parameter for adding custom tabs with HTML pages to Launcher (https://clck.ru/N4dzU)
-
-## [2.4.3] - 2020-03-25
-### Fixed
-- Minor bugs
-
-## [2.4.2] - 2020-03-17
-### Added
-- Multiple game keys activation
-
-## [2.4.1] - 2020-02-19
-### Added
-- Config parameter for hidding "all news" button on news screen
-
-## [2.4.0] - 2020-01-23
-### Fixed
-- Minor bugs
-
 ## [2.3.0] - 2019-12-26
 ### Added
 - The additional request for the user email from the social network or from the user (https://clck.ru/LV5rq)

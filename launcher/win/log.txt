@@ -1,0 +1,7 @@
+2020-01-14T02:13:10	INFO	LogsCollector	Temp path in settings is empty.
+2020-01-14T02:13:10	INFO	LogsCollector	Using  C:/Users/Bruno/AppData/Local/Temp  as temp path.
+2020-01-14T02:13:10	DEBUG	default	Use default API host:  "https://gus.xsolla.com"
+2020-01-14T02:13:10	DEBUG	default	Use default gus bucket:  "launcher-game-update"
+2020-01-14T02:13:10	INFO	App	Build loader version:   1.6.0
+2020-01-14T02:13:10	INFO	App	Current region:         default
+2020-01-14T02:13:10	INFO	App	Current game path:      "."

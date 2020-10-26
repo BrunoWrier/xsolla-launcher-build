@@ -1,0 +1,56 @@
+{
+    "banner_groups": [
+        {
+            "banners": [
+                {
+                    "action": "openurl:https://gamejolt.com/games/Exotic/401083",
+                    "date": 1578962269,
+                    "description": "This is another test banner with news. Clicking the banner opens a corresponding news article.",
+                    "expression": "",
+                    "id": 3105,
+                    "image": "https://cdn3.xsolla.com/img/misc/images/071d84099430ada3f2f7ca32c9336aa5.jpg",
+                    "locale": "en",
+                    "order": 2,
+                    "regions": [
+                    ],
+                    "title": "Go to Gamejolt!",
+                    "type": "external"
+                }
+            ],
+            "game_id": 3053,
+            "id": 3650,
+            "is_default": true,
+            "order": 0,
+            "regions": [
+            ],
+            "size": "square",
+            "title": "Default"
+        },
+        {
+            "banners": [
+                {
+                    "action": "openurl:https://gamejolt.com/games/Simon_The_Lumberjack/460101",
+                    "date": 1581458175,
+                    "description": "Go to Gamejolt!",
+                    "expression": "",
+                    "id": 3664,
+                    "image": "https://cdn3.xsolla.com/img/misc/images/c41a4cfdc5aa7b12d9e5c9d3e19e24df.jpg",
+                    "locale": "en",
+                    "order": 2,
+                    "regions": [
+                    ],
+                    "title": "Go to Gamejolt!",
+                    "type": "external"
+                }
+            ],
+            "game_id": 3203,
+            "id": 3844,
+            "is_default": true,
+            "order": 0,
+            "regions": [
+            ],
+            "size": "square",
+            "title": "Default"
+        }
+    ]
+}
